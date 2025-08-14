@@ -1,4 +1,4 @@
-## **`README.md`** (root)
+
 
 ```markdown
 # 🐛 Pest Detection & Pesticide Recommendation System
