@@ -7,22 +7,11 @@ The system accepts pest images, classifies them into one of 12 categories, fetch
 
 -----
 
-## 🎥 Demo
-▶️ **Demo Video**  
-<p align="center"> <a href="https://drive.google.com/your-demo-link-here" target="_blank" rel="noopener noreferrer"> Watch the demo video on Google Drive </a> </p>
-
 📸 **App Screenshots**
 <p align="center">
-  <img src="demo/bbdaad89-8ed0-4796-8506-790e663e662e.png" width="250" />
-  <img src="demo/bc23cf0e-dc5a-4942-a163-40417120d336.png" width="250" />
-  <img src="demo/3dfda354-0f3f-4486-959f-44a969db2322.png" width="250" />
+  <img src="https://github.com/user-attachments/assets/97f847ce-908c-4e59-9abd-a87007d530b1" width="250" />
+  <img src="https://github.com/user-attachments/assets/c4cbcda6-7c33-4a78-ba46-7c7bac4b2a1b" width="250" />
 </p>
-<p align="center">
-  <img src="demo/a1d80129-68e3-4e20-a613-0040de715f00.png" width="250" />
-  <img src="demo/0684e2e0-852c-4939-8df3-37744a66a9aa.png" width="250" />
-  <img src="demo/646c340e-5a81-44f9-ba82-0a8279d6b839.png" width="250" />
-</p>
-
 -----
 
 ## ⭐ Core Features
