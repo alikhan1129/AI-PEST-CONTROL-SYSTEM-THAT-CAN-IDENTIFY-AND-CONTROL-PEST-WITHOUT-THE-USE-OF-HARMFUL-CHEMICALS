@@ -1,0 +1,28 @@
+name: pest_identifier_app
+description: A Flutter app to identify pests and recommend pesticides.
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  image_picker: ^1.0.7
+  intl: ^0.19.0
+  shared_preferences: ^2.2.2   # ✅ Add this line
+
+
+flutter:
+  uses-material-design: true
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: false
+  windows: true
+  web: true
+  image_path: "assets/icon.png"
+
