@@ -1,5 +1,3 @@
-
-
 ```markdown
 # 🐛 Pest Detection & Pesticide Recommendation System
 
@@ -106,15 +104,8 @@ Response:
 
 ## 🎥 Demo
 
-![App Screenshot](demo/demo1.png)
-![Detection Result](demo/demo2.png)
+![App Screenshot](<img width="488" height="883" alt="MAIN_PAGE" src="https://github.com/user-attachments/assets/97f847ce-908c-4e59-9abd-a87007d530b1" />)
+![HISTORY_PAGE](<img width="491" height="843" alt="HISTORY_PAGE" src="https://github.com/user-attachments/assets/c4cbcda6-7c33-4a78-ba46-7c7bac4b2a1b" />)
 
----
-
-## 📜 License
-
-MIT License.
-
-```
 
 
